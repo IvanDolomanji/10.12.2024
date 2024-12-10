@@ -1,0 +1,7 @@
+D:\215 III\333\bin\Debug\333.exe.config
+D:\215 III\333\bin\Debug\333.exe
+D:\215 III\333\bin\Debug\333.pdb
+D:\215 III\333\obj\Debug\333.csproj.AssemblyReference.cache
+D:\215 III\333\obj\Debug\333.csproj.CoreCompileInputs.cache
+D:\215 III\333\obj\Debug\333.exe
+D:\215 III\333\obj\Debug\333.pdb
