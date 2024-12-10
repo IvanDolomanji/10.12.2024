@@ -1,0 +1,7 @@
+D:\dolomanji2\bin\Debug\dolomanji2.exe.config
+D:\dolomanji2\bin\Debug\dolomanji2.exe
+D:\dolomanji2\bin\Debug\dolomanji2.pdb
+D:\dolomanji2\obj\Debug\dolomanji2.csproj.AssemblyReference.cache
+D:\dolomanji2\obj\Debug\dolomanji2.csproj.CoreCompileInputs.cache
+D:\dolomanji2\obj\Debug\dolomanji2.exe
+D:\dolomanji2\obj\Debug\dolomanji2.pdb
