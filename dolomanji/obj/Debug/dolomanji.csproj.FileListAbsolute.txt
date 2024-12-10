@@ -1,0 +1,7 @@
+C:\Users\Kab-35-16\source\repos\dolomanji\bin\Debug\dolomanji.exe.config
+C:\Users\Kab-35-16\source\repos\dolomanji\bin\Debug\dolomanji.exe
+C:\Users\Kab-35-16\source\repos\dolomanji\bin\Debug\dolomanji.pdb
+C:\Users\Kab-35-16\source\repos\dolomanji\obj\Debug\dolomanji.csproj.AssemblyReference.cache
+C:\Users\Kab-35-16\source\repos\dolomanji\obj\Debug\dolomanji.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-16\source\repos\dolomanji\obj\Debug\dolomanji.exe
+C:\Users\Kab-35-16\source\repos\dolomanji\obj\Debug\dolomanji.pdb
