@@ -1,0 +1,7 @@
+D:\215 III\5435\bin\Debug\5435.exe.config
+D:\215 III\5435\bin\Debug\5435.exe
+D:\215 III\5435\bin\Debug\5435.pdb
+D:\215 III\5435\obj\Debug\5435.csproj.AssemblyReference.cache
+D:\215 III\5435\obj\Debug\5435.csproj.CoreCompileInputs.cache
+D:\215 III\5435\obj\Debug\5435.exe
+D:\215 III\5435\obj\Debug\5435.pdb
